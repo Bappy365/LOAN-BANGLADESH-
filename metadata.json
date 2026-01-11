@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LoanPro Bangladesh",
+  "description": "A professional loan management application for the Bangladesh market featuring NID verification, security deposit handling, and full loan lifecycle tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
